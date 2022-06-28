@@ -1,6 +1,2 @@
 #!/usr/bin/python3
-# Author - Somtochukwu Onyemma
-
-def add(a, b):
-    """Return the addition of a and b."""
-    return (a + b)
+def add(a, b): return a + b
